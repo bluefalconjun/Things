@@ -1,5 +1,6 @@
 # Things
 record the things do not use and want to share to help others
+//Please leave your request in Issues and all below stuff are free to share.
 
 ---
 ## Ele-Equip
